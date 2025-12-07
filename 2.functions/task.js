@@ -104,3 +104,5 @@ console.log(makeWork(arr, summElementsWorker));
 console.log(makeWork(arr, differenceMaxMinWorker));
 console.log(makeWork(arr, differenceEvenOddWorker));
 console.log(makeWork(arr, averageEvenElementsWorker));
+
+
